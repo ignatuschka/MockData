@@ -1,0 +1,29 @@
+[
+   {
+      "id":0,
+      "distance_meters":14320,
+      "exercise_start":"03-12-2024 21:05:47",
+      "exercise_end":"03-12-2024 23:51:47",
+      "comment":"Я бежал очень сильно, ты так  не сможешь",
+      "exercise_type":"Surfing",
+      "user_name":"@van_darkholme"
+   },
+   {
+      "id":1,
+      "distance_meters":228,
+      "exercise_start":"03-12-2024 09:03:47",
+      "exercise_end":"03-12-2024 23:51:47",
+      "comment":"Людского во мне много",
+      "exercise_type":"Swing",
+      "user_name":"@techniquepasha"
+   },
+   {
+      "id":2,
+      "distance_meters":10000,
+      "exercise_start":"03-12-2024 22:41:47",
+      "exercise_end":"03-12-2024 23:51:47",
+      "comment":"Как дела? Как дела? Это новый кадиллак",
+      "exercise_type":"Cadillac",
+      "user_name":"@morgen_shtern"
+   }
+]
