@@ -124,5 +124,14 @@
       "comment":"Как дела? Как дела? Это новый кадиллак",
       "exercise_type":"Cadillac",
       "user_name":"@morgen_shtern"
+   },
+   {
+      "id":14,
+      "distance_meters":10000,
+      "exercise_start":"10-09-2022 22:41:47",
+      "exercise_end":"20-09-2022 23:51:47",
+      "comment":"Как дела? Как дела? Это новый кадиллак",
+      "exercise_type":"Cadillac",
+      "user_name":"@morgen_shtern"
    }
 ]
