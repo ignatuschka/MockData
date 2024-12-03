@@ -43,5 +43,41 @@
       "comment":"Как дела? Как дела? Это новый кадиллак",
       "exercise_type":"Cadillac",
       "user_name":"@morgen_shtern"
+   },
+   {
+      "id":5,
+      "distance_meters":10000,
+      "exercise_start":"02-12-2024 22:41:47",
+      "exercise_end":"02-12-2024 23:51:47",
+      "comment":"Как дела? Как дела? Это новый кадиллак",
+      "exercise_type":"Cadillac",
+      "user_name":"@morgen_shtern"
+   },
+   {
+      "id":6,
+      "distance_meters":10000,
+      "exercise_start":"01-12-2024 22:41:47",
+      "exercise_end":"01-12-2024 23:51:47",
+      "comment":"Как дела? Как дела? Это новый кадиллак",
+      "exercise_type":"Cadillac",
+      "user_name":"@morgen_shtern"
+   },
+   {
+      "id":7,
+      "distance_meters":10000,
+      "exercise_start":"03-11-2024 22:41:47",
+      "exercise_end":"03-11-2024 23:51:47",
+      "comment":"Как дела? Как дела? Это новый кадиллак",
+      "exercise_type":"Cadillac",
+      "user_name":"@morgen_shtern"
+   },
+   {
+      "id":8,
+      "distance_meters":10000,
+      "exercise_start":"31-10-2024 22:41:47",
+      "exercise_end":"31-10-2024 23:51:47",
+      "comment":"Как дела? Как дела? Это новый кадиллак",
+      "exercise_type":"Cadillac",
+      "user_name":"@morgen_shtern"
    }
 ]
